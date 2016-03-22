@@ -6,16 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Graha Aquaponik
+email: info@grahaaquaponik.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "Tidaklah seorang muslim menanam suatu pohon melainkan apa yang dimakan dari tanaman itu sebagai sedekah baginya, dan apa yang dicuri dari tanaman tersebut sebagai sedekah baginya dan tidaklah kepunyaan seorang itu dikurangi melainkan menjadi sedekah baginya." (HR. Imam Muslim Hadits no.1552)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://grahaaquaponik" # the base hostname & protocol for your site
+twitter_username: grahaaquaponik
+instagram_username:  grahaaquaponik
+facebook_username: Graha Aquaponik
 
 # Build settings
 markdown: kramdown
